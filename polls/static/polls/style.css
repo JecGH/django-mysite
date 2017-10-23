@@ -1,6 +1,6 @@
 body {
-    background: white url("images/background.gif") no-repeat right bottom;
-    #background: #417690;
+    #background: white url("images/background.gif") no-repeat right bottom;
+    background: #417690;
 }
 
 li a {
